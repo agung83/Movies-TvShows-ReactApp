@@ -3,7 +3,7 @@
 
 # Demo
 <a href="#" target="_blank">
-    Movies & Tv Shows with heroku
+    Movies & Tv Shows with herokuu
 </a>
 
 ## package third party
