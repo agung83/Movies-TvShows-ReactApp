@@ -1,0 +1,15 @@
+
+const INITIAL_DATA = "INITIAL_DATA"
+const SET_NEW_MOVIE = "SET_NEW_MOVIE"
+const SET_TV = "SET_TV"
+const SET_MOVIE = "SET_MOVIE"
+const DELETED = "DELETED"
+
+
+export {
+    SET_NEW_MOVIE,
+    SET_TV,
+    SET_MOVIE,
+    INITIAL_DATA,
+    DELETED
+}
